@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 <div>
   <a href="https://github.com/apollw">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apollw&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=apollw&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apollw&layout=compact&langs_count=7&theme=monokai"/>
 </div>
   
