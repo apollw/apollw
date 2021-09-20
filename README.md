@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @apollw
-- 👀 I’m interested in Javascript, C#, C, PHP, SQL and Machine Learning
+- 👀 I’m interested in Javascript, C#, C, PHP, SQL, Machine Learning and Game Programming
 - 🌱 I’m currently learning JavaScript
 
 <!---
