@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @apollw
-- 👀 I’m interested in Javascript, C#, C, PHP, SQL, Machine Learning and Game Programming
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Javascript, C#, C, SQL, Machine Learning and Game Programming
+- 🌱 I’m currently learning JavaScript and C#
 
 <!---
 apollw/apollw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
