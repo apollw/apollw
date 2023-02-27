@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @apollw
-- 👀 I’m interested in Javascript, C#, C, SQL, Artificial Intelligence and Mobile Programming
-- 🌱 I’m currently learning JavaScript and C#
+- 👀 I’m interested in C#, .NET and Artificial Intelligence
+- 🌱 I’m currently learning C# and Javascript
 
 <!---
 apollw/apollw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,10 +25,8 @@ You can click the Preview link to take a look at your changes.
   ##
 
 <div> 
-  <a href="https://www.youtube.com/channel/UCU77D9r32pEwanXyx0C-zGw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/apollw" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/apollw" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:apollw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 	<a href = "mailto:apollw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leanderson-silva-a104448b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
