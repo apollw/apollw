@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @apollw
-- 👀 I’m interested in C#, .NET Platform and Artificial Intelligence
-- 🌱 I’m currently learning C# and Python
-
+<!-- 👋 Introduction -->
+👋 Olá, eu sou o Leanderson ([@apollw](https://github.com/apollw))  
+💼 Desenvolvedor de Software | C# · ASP.NET · .NET MAUI · Java
+🚀 Construo apps cross-platform (mobile, web desktop), APIs REST robustas e exploro programação de baixo nível  
+🤖 Apaixonado por Inteligência Artificial, Machine Learning e boas práticas de segurança da informação  
+🎮 Game Dev entusiasta: Unity, card games e estudo de engines antigas e modernas  
+📚 Lifelong learner: Python · SQL · OS internals · sistemas legados · segurança cibernética
 <!---
 apollw/apollw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -14,7 +17,7 @@ You can click the Preview link to take a look at your changes.
  <div style="display: inline_block"><br>
   <img align="center" alt="apollw-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="apollw-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
-  <img align="center" alt="apollw-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="center" alt="apollw-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <!--<img align="center" alt="apollw-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-->
   <img align="center" alt="apollw-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="apollw-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
